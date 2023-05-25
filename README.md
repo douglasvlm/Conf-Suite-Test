@@ -2,8 +2,6 @@
 <div align="center">
     <h1>Desenvolvimento de aplicações com .NET</h1>
     <h2><i>Configuração da Suíte de testes e aplicando testes integrados em .NET CORE</i></h2>
-    <h3>Este repositório faz parte dos meus estudos na Digital Innovation One.</h3>
-    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150">
     <i>Desenvolvimento de aplicações com .NET</i>
  </div>    
 <hr/>
